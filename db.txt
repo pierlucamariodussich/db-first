@@ -1,0 +1,24 @@
+
+
+nome-database: cars
+ID: number/int
+nome_auto: string/VARCHAR(40)
+marca:string/VARCHAR(20)
+colore: string/VARCHAR(20)
+nuovo_usato: string/VARCHAR(5)
+descrizione: string/TEXT
+chilometraggio: numbers/ INT
+carburante: string/VARCHAR(10)
+prezzo:numbers/ INT
+targa: string/VARCHAR(7)
+marce: numbers/ TINYINT
+registazione: yyyy/YEAR
+emissioni: numbers/ TINYINT
+carrozzeria: string/VARCHAR(20)
+cilindrata: numbers/ INT
+potenza: numbers/ INT
+trazione: string/VARCHAR(10)
+numero_porte: numbers/ TINYINT
+
+
+
